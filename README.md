@@ -38,4 +38,4 @@ Processing for img7 and img8 (Stronger Noise + Structural Cleanup)-----IMAGE WIT
 
 To run
 ```python
-python denoise_q4_final.py```
+python noise_removal.py
